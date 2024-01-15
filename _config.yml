@@ -16,10 +16,10 @@ timezone:
 
 title: systemGroot # the main title
 
-tagline: A development blog # it will display as the sub-title
+tagline:  .NET, JavaScript, and other stuff # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My developer's diary 
+  Software development blog by Jessie Groot 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
